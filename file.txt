@@ -1,3 +1,4 @@
-second line of code
+editing second line of code
 trying to create conflict for third line of code
-adding fourth line of code 
+chaging fourth line of code
+again adding some more code to fifth line
